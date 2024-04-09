@@ -1,0 +1,10 @@
+h1 {
+  text-align: center;
+  color: red;
+}
+
+.app {
+  color: yellow;
+  font-size: 50px;
+  font-family: "Times New Roman", Times, serif;
+}
